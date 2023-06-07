@@ -50,8 +50,8 @@
    orcid: 
    affiliation:  # add full names if not yet listed, or indexes if already are
  - name: James Kent  # 8 commits, issues: opened 3 participated in 0
-   orcid: 
-   affiliation:  # add full names if not yet listed, or indexes if already are
+   orcid: 0000-0002-4892-2659
+   affiliation: University of Texas at Austin # add full names if not yet listed, or indexes if already are
  - name: auto  # 10 commits, issues: opened 0 participated in 0
    orcid: 
    affiliation:  # add full names if not yet listed, or indexes if already are
